@@ -28,7 +28,7 @@
                         </div>  
                         <p class="card-text"><h4><b>{{$produto->Nome}}</b></h4></p>
                         <div>
-                        <p class="card-text"><h4><b>R$ {{$produto->valor}}</b>
+                        <p class="card-text"><h4><b>sssssR$ {{$produto->valor}}</b>
                         </div>
                         <div>
                             <p class="cont">{{$produto->descricao}}</p>
