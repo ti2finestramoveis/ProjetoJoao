@@ -24,7 +24,7 @@
                             <th scope="col">Quantidade</th>
                             <th scope="col">Promoção</th>
                             <th scope="col">Valor da Promoção</th>
-                            <th scope="col">Opções</th>
+                            <th scope="col">Opçõesfefe</th>
 
                           </tr>
                         </thead>
